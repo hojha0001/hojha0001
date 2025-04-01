@@ -3,7 +3,7 @@
 - 👀 I’m interested in **Data Science**, **Machine Learning**, and **AI**.  
 - 🌱 I’m currently learning **Deep Learning**, **Reinforcement Learning**, and **Cloud Technologies**.  
 - 💞️ I’m looking to collaborate on **Data Analysis** projects, **Predictive Modeling**, and **AI-driven solutions**.  
-- 📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/hojha0001) or email me at **hojha0001@example.com**.  
+- 📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/himanshuojha-ml/) or email me at **himanshu.ojha0001@gmail.com**.  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: I love **solving puzzles** and **exploring new data trends** in my free time!
 
