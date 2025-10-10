@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @hojha0001
+# 👋 Hello I'm Himanshu S Ojha
 
 - 👀 I’m interested in **Data Science**, **Machine Learning**, and **AI**.  
 - 🌱 I’m currently learning **Deep Learning**, **Reinforcement Learning**, and **Cloud Technologies**.  
