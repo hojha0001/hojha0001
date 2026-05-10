@@ -104,7 +104,7 @@ print(himanshu.impact)
 
 | 🚀 Models in Production | 💰 Business Impact | 📅 Experience | 📦 Public Repos |
 |:---:|:---:|:---:|:---:|
-| **60+** | **$2M+** | **4+ Years** | **17** |
+| **60+** | **$2M+** | **5+ Years** | **17** |
 
 </div>
 
