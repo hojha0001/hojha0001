@@ -48,7 +48,7 @@ class HimanshuOjha:
         self.name        = "Himanshu S Ojha"
         self.role        = "Senior Data Scientist"
         self.location    = "India 🇮🇳"
-        self.experience  = "4+ years"
+        self.experience  = "5+ years"
         self.contact     = "himanshu.ojha0001@gmail.com"
         self.portfolio   = "https://v0-himanshu-portfolio.vercel.app/"
         self.impact      = {
