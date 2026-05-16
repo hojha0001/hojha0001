@@ -33,7 +33,7 @@ class HimanshuOjha:
         self.name        = "Himanshu S Ojha"
         self.role        = "Senior Data Scientist"
         self.location    = "India 🇮🇳"
-        self.experience  = "4+ years"
+        self.experience  = "5+ years"
         self.impact      = {
             "models_in_prod" : "60+",
             "business_value" : "$2M+",
