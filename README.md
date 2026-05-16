@@ -8,7 +8,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    TYPING ANIMATION                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=60%2B+ML+Models+Shipped+to+Production+%F0%9F%9A%80;%242M%2B+Measurable+Business+Impact+%F0%9F%92%B9;RAG+Pipelines+%7C+Multi-Agent+AI+%7C+LLM+Orchestration+%F0%9F%A7%A0;Time-Series+Forecasting+%7C+Anomaly+Detection+%F0%9F%93%88;Senior+Data+Scientist+%7C+4%2B+Years+Experience+%F0%9F%8E%AF;Reliability+%3E+Hype.+Always.+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=60%2B+ML+Models+Shipped+to+Production+%F0%9F%9A%80;%242M%2B+Measurable+Business+Impact+%F0%9F%92%B9;RAG+Pipelines+%7C+Multi-Agent+AI+%7C+LLM+Orchestration+%F0%9F%A7%A0;Time-Series+Forecasting+%7C+Anomaly+Detection+%F0%9F%93%88;Senior+Data+Scientist+%7C+5%2B+Years+Experience+%F0%9F%8E%AF;Reliability+%3E+Hype.+Always.+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
