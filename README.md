@@ -33,7 +33,7 @@
 
 ## 👋 Hi, I'm Himanshu S Ojha!
 
-I'm a **Senior Data Scientist** with **4+ years** of experience building production-grade AI and ML systems that drive real business outcomes.
+I'm a **Senior Data Scientist** with **5+ years** of experience building production-grade AI and ML systems that drive real business outcomes.
 
 > ⚡ *I've deployed 60+ ML models to production with \$2M+ measurable business impact — and I still care more about model reliability than model hype.*
 
